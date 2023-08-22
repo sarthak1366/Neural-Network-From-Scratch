@@ -7,7 +7,7 @@ Now as we move on to the second section we want to make the output layer , Now t
 
 <img width="280" alt="image" src="https://github.com/sarthak1366/Neural-Network-From-Scratch/assets/49805771/4225782d-afc1-4cee-91da-51ace67c3f38">
 
-Till section 3 what we did is just used the same thing over and over and changed the method of doing by a bit.
-In section 1 we calculated output for 1 neuron .
-In section 2 we calculated the output for a layer
-In section 3 we just looped through each ouput neuron instead of haed coding for each neuron
+Till section 3 what we did is just used the same thing over and over and changed the method of doing by a bit.<br>
+In section 1 we calculated output for 1 neuron .<br>
+In section 2 we calculated the output for a layer<br>
+In section 3 we just looped through each ouput neuron instead of haed coding for each neuron <br>
