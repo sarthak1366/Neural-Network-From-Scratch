@@ -17,6 +17,6 @@ biases = [2,3,0.5]
 # The resulting dot products are placed in the corresponding positions of the resulting 1D array C.
 
 output = np.dot(weights,inputs) + biases
-# np.dot(..) returns an array of 3 dim each correspoinding element is than added to each element of biases
+# np.dot(..) returns an array of 3 dim each corresponding element is than added to each element of biases
 
 print(output)
