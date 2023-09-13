@@ -13,7 +13,7 @@ In section 2 we calculated the output for a layer.<br>
 In section 3 we just looped through each ouput neuron instead of hard coding for each neuron. <br>
 
 Now in section 6 , what we try to do is give input in batches. Earlier we were providing a single input , now according to this input we were getting the output.
-Let us consider a problem of linear regression to be solved by neural network. If we give single single input in each iteration the neural network need to fit the line according to new input.
+Let us consider a problem of linear regression to be solved by neural network. If we give single single input in each iteration the neural network need to fit the line according to new input.Every time there is a new input the new line which is to fit the sample gets changed a bit. The variation is high , and it takes a lot time to converge. Also our computer is powerful enough to take multiple inputs at the same time , so therefore instead of giving a single input we provide a batch of inputs 4,8,16,32.... etc.
 
 <img width="762" alt="image" src="https://github.com/sarthak1366/Neural-Network-From-Scratch/assets/49805771/ad47383f-10ac-4363-8ae5-a869b77d08d4">
 <img width="759" alt="image" src="https://github.com/sarthak1366/Neural-Network-From-Scratch/assets/49805771/1e1206f3-5d84-479d-a57c-a0e2a7107fe1">
